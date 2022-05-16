@@ -41,36 +41,38 @@ export const roadmap = [
   {
     title: 'Q2 2022',
     points: [
-      'erdjs 10 integration and refactoring',
-      'UI automated tests',
-      'Ledger auth implementation',
-      'Better UI and more useful hooks',
+      'Public sale: 3000 Tigers Price: 1 EGLD',
+      '500 $TOC per tigers minted',
+      'Buy back the floor price for the comunity',
+      'Airdrop NFT surprise for holders',
     ],
   },
   {
     title: 'Q3 2022',
     points: [
-      'More usefull UI components',
-      'More helpful docs and videos',
-      'More functionality for logged in user',
-      'Blog feature implementation',
+      'Jungleverse V1',
+      'Zombification in the Jungleverse',
+      '$TOC Airdrop phase 2',
+      'News partershhips with the comunity',
     ],
   },
   {
     title: 'Q4 2022',
     points: [
-      'Backend cache (Redis?)',
-      'Image optimization (Cloudinary?)',
-      '...sky is the limit!',
+      'NFT Staking / $TOC Staking',
+      'Junglelotery',
+      '$TOC Airdrop phase 3',
+      'Merchandising',
+      'TigersDAO, sky is the limit!',
     ],
   },
 ];
 
 export const team = [
   {
-    name: 'John Doe',
+    name: 'Shere Khan',
     bio: 'Web designer and artist',
-    imageUrl: '/john.svg',
+    imageUrl: '/orange.png',
     socialMediaLinks: [
       'https://www.twitter.com',
       'https://www.behance.net',
@@ -78,15 +80,15 @@ export const team = [
     ],
   },
   {
-    name: 'Mark Doe',
+    name: 'Vitaly',
     bio: 'Smart Contract programmer',
-    imageUrl: '/mark.svg',
+    imageUrl: '/cheetah.png',
     socialMediaLinks: ['https://www.twitter.com', 'https://www.github.com'],
   },
   {
-    name: 'Jack Doe',
+    name: 'Rajah',
     bio: 'Community relations and marketing',
-    imageUrl: '/jack.svg',
+    imageUrl: '/reptile.png',
     socialMediaLinks: [
       'https://www.twitter.com',
       'https://www.discord.com',
